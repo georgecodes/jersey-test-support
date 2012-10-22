@@ -19,7 +19,7 @@ import com.sun.jersey.test.framework.spi.container.TestContainerFactory;
  *
  * @author Copyright (c) 2012 George McIntosh <george@elevenware.com>
  *
- * org.merlin.io was released by its author under the Apache License,
+ * This code was released by its author under the Apache License,
  * Version 2.0 (the "License") on 21st October 2012;
  * you may not use this file except in compliance with the License.
  *
